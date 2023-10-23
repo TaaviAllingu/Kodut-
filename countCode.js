@@ -2,7 +2,7 @@ const data = ["FWmcfgAWxe","KnFJXGcACq","cCYApSPiX0","iHwbq2giBx","X5Ebl6sjLf","
 
 function countcode(LETTER) {
     let abimuutuja = 0;
-    for (let i = 0: i < data.length; i++){
+    for (let i = 0; i < data.length; i++){
         if (data[i][0] === letter) {
             abimuutuja++;
         }
